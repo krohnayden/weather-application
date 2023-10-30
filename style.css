@@ -14,6 +14,13 @@ header {
     justify-content:space-around;
 }
 
+#currentWeather {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
 #forecast {
     display:flex;
     color: black;
